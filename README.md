@@ -1,5 +1,6 @@
 ## About me 👋
 I'm a programmer based in Czech.
 
-## What I'm working on 🔭
+## My projects 🔭
 <a href="https://github.com/vitezprchal/jrustkit">jrustkit</a>
+<a href="https://github.com/vitezprchal/waitlistgo">waitlistgo</a>
